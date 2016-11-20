@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SnS-Orders</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_order">Order</string>
+    <string name="pid">Product Id:</string>
+    <string name="name">Name:</string>
+    <string name="order">Order:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="delete">Delete all Data</string>
+    <string name="exit">Exit</string>
+    <string name="usr">User Name:</string>
+    <string name="pwd">Password:</string>
+</resources>
